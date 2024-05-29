@@ -1,11 +1,11 @@
 # depslib dependency file v1.0
-1716966305 source:d:\cpp\day-10-cpp\seperatefileforclass\destructornjoy\main.cpp
+1716986694 source:d:\cpp\day-10-cpp\seperatefileforclass\destructornjoy\main.cpp
 	<iostream>
 	"mydestructorclass.h"
 
-1716966431 d:\cpp\day-10-cpp\seperatefileforclass\destructornjoy\mydestructorclass.h
+1716986622 d:\cpp\day-10-cpp\seperatefileforclass\destructornjoy\mydestructorclass.h
 
-1716966266 source:d:\cpp\day-10-cpp\seperatefileforclass\destructornjoy\mydestructorclass.cpp
+1716986711 source:d:\cpp\day-10-cpp\seperatefileforclass\destructornjoy\mydestructorclass.cpp
 	"mydestructorclass.h"
 	<iostream>
 

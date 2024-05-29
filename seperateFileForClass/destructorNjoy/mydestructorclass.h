@@ -7,6 +7,7 @@ class myDestructorClass
     public:
         myDestructorClass();
         ~myDestructorClass();
+        void display();
 
 
     protected:
